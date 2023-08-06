@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/Blog",
+        "production_uri": "mysql://root:@localhost/Blog", 
+        "blog_name": "Tech Geek",
+        "git": "https://github.com/",
+        "gmail_id":"sarojv434@gmail.com",
+        "pswd":"eqdxqqhbemtkzgqi",
+        "login_user":"Sarman",
+        "login_password":"@Sarman171",
+        "no_of_posts": 2
+    }
+    
+}

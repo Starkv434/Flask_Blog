@@ -1,0 +1,8 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="session" style="margin-top:130px;">
+   <h2>Session data stored successfully.</h2>
+   <button type="submit" class="btn btn-danger" onclick="window.location.href='{{ url_for('logout') }}'">Logout</button>
+</div>
+{% endblock %}
